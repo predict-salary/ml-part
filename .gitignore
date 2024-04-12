@@ -1,0 +1,7 @@
+*.csv
+*.xls
+
+venv/
+catboost_info/
+.ipynb_checkpoints/
+models/*
